@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary-color: #ffc42f;
+  }
+  
+/*  @font-face {
+    font-family: "Nunito";
+    src: url("/fonts/Nunito/Nunito-Regular.ttf") format("truetype");
+  }*/
+  
+  :root {
+    --primary-clr: #0c0b2b;
+    --secondary-clr: #ffc42f;
+    --light-text-clr: #fff;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #ffc42f2a;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #ffc42fd4;
+    border-radius: 10px;
+    transition: all 0.5 ease-in-out;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #ffc42f;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: "Nunito", sans-serif;
+    background-color: var(--primary-clr);
+  }
