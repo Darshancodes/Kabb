@@ -27,7 +27,7 @@ export default function Footer() {
       <Text sx={styles.footer.copyright}>
         All right reserved - 
         <Link path="" target="_blank">
-          Ryxo Rides™
+          Kabb™
         </Link>
       </Text>
     </footer>

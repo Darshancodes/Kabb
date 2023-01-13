@@ -91,8 +91,9 @@ export default {
       py: [8, null, 9, null, null, 10],
     },
     partner: {
-      pt: [2, null, null, 5],
-      pb: [8, null, 9, null, null, 10],
+      pt: [5, null, null, 5],
+      pb: [5, null, 5, null, null, 5],
+      px: [10, null, null, 5]
     },
     testimonial: {
       py: [8, null, 9, null, null, 10],

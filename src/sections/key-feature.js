@@ -11,26 +11,26 @@ const data = [
   {
     id: 1,
     imgSrc: Vector,
-    altText: 'Taxi Service',
-    title: 'Taxi Service',
+    altText: 'Comfortability',
+    title: 'Comfortability',
     text:
-      'We provide best in class taxi service with safest ride.',
+      'Easily book Clean and Luxurious Rides. We are your Comfort Zone while moving Intercity and Intracity',
   },
   {
     id: 2,
     imgSrc: Editing,
-    altText: 'Auto Service',
-    title: 'Auto Service',
+    altText: 'Affordability',
+    title: 'Affordability',
     text:
-      'Check in and ride with ryxos best suited auto service to take you on your destination.',
+      'Whether riding Single or with Group, Book rides that fit every pocket. We help you save upto 40% every time',
   },
   {
     id: 3,
     imgSrc: Speed,
-    altText: 'Bike Service',
-    title: 'Bike Service',
+    altText: 'Satisfaction',
+    title: 'Satisfaction',
     text:
-      'Single Person? and want to go to nearest location? then our bikes helps you reach it fast.',
+      'We guarantee 100% Satisfaction. Lowest Fare, Personal Chauffeur, Punctuality, Professional and more',
   },
 ];
 
@@ -39,8 +39,7 @@ export default function KeyFeature() {
     <section sx={{ variant: 'section.keyFeature' }} id="feature">
       <Container>
         <SectionHeader
-          slogan="Quality Services"
-          title="Meet exciting services of Kabb"
+          title="OUR SERVICES"
         />
 
         <Grid sx={styles.grid}>

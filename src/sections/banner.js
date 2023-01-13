@@ -4,6 +4,7 @@ import { Container, Flex, Box, Heading, Text, Image, Button } from 'theme-ui';
 import React, { useState } from 'react';
 import BgHeader from 'assets/car 1.svg';
 import { Link } from 'components/link';
+import { FaPlay } from 'react-icons/fa'
 
 
 export default function Banner() {
@@ -17,14 +18,14 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            We're a professional taxi service.
+            Booking KABB helps you save upto 40% on every ride
           </Heading>
           <Text as="p" variant="heroSecondary">
-            We strive to provide the quality across all our products.
           </Text>
           <Flex>
             <Button variant="whiteButton" aria-label="Get Started">
-              Get in on Google Play
+              <FaPlay />
+              Ride with us
             </Button>
             <>
               

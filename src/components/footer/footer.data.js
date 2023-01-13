@@ -1,97 +1,33 @@
 export default [
   {
-    header: 'About Us',
     items: [
       {
-        path: '/',
-        label: 'Support Center',
-      },
-      {
-        path: '/',
-        label: 'Customer Support',
-      },
-      {
-        path: '/',
-        label: 'About Us',
-      },
-      {
-        path: '/',
-        label: 'Copyright',
-      },
-      {
-        path: '/',
-        label: 'Popular Campaign',
+        path: 'https://www.linkedin.com/company/kabbkaro/about',
+        label: 'About us',
       },
     ],
   },
   {
-    header: 'Our Information',
     items: [
       {
-        path: '/',
-        label: 'Return Policy ',
+        path: 'https://www.linkedin.com/company/kabbkaro/',
+        label: 'Social media',
       },
+    ],
+  },
+  {
+    items: [
       {
-        path: '/',
-        label: 'Privacy Policy',
-      },
-      {
-        path: '/',
+        path: 'https://kabblog.notion.site/Kabb-Privacy-Policy-06d863eebe4d4826ad9b9c6ad1d7440e',
         label: 'Terms & Conditions',
       },
-      {
-        path: '/',
-        label: 'Site Map',
-      },
-      {
-        path: '/',
-        label: 'Store Hours',
-      },
     ],
   },
   {
-    header: 'My Account',
     items: [
       {
-        path: '/',
-        label: 'Press inquiries',
-      },
-      {
-        path: '/',
-        label: 'Social media ',
-      },
-      {
-        path: '/',
-        label: 'directories',
-      },
-      {
-        path: '/',
-        label: 'Images & B-roll',
-      },
-      {
-        path: '/',
-        label: 'Permissions',
-      },
-    ],
-  },
-  {
-    header: 'Policy',
-    items: [
-      {
-        path: '/',
-        label: 'Application security',
-      },
-      {
-        path: '/',
-        label: 'Software principles',
-      },
-      {
-        path: '/',
-        label: 'Unwanted software policy',
-      },
-      {
-        path: '/',
-        label: 'Responsible supply chain',
+        path: 'https://www.linkedin.com/company/kabbkaro/',
+        label: 'Contact us',
       },
     ],
   },

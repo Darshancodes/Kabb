@@ -1,15 +1,13 @@
 /** @jsx jsx */
 import { jsx, Container, Box } from 'theme-ui';
 import TextFeature from 'components/text-feature';
-import Image from 'components/image';
-
-import Partner from 'assets/Partner.png';
+import Image from 'components/image'; 
 
 const data = {
   //subTitle: 'CTA(Call to action)',
   title: 'Get the app now and enjoy the service.',
   description:
-    'Get the app now by clicking on the button below and enjoy the Ryxo Riding.',
+    'Get the app now by clicking on the button below and enjoy the KABB Riding.',
   btnName: 'Get it now',
   btnURL: '#',
 };
@@ -28,7 +26,7 @@ export default function PartnerSection() {
           />
         </Box>
         <Box sx={{ px: [0, null, '40px', 0] }}>
-          <Image src={Partner} alt="Partner" />
+         
         </Box>
       </Container>
     </section>

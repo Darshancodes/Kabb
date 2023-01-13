@@ -39,7 +39,8 @@ export default function Header({ className }) {
             variant="secondary"
             aria-label="Get Started"
           >
-            Get started
+          <FaPlay />
+            Drive with us
           </Button>
 
           <MobileDrawer />

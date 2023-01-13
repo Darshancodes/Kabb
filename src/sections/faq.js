@@ -12,10 +12,10 @@ const faqs = [
     ),
   },
   {
-    title: 'How can i hail a Ryxo Riding?',
+    title: 'How can i hail a KABB Riding?',
     contents: (
       <div>
-        Please click on the link here and enjoy the hail of ryxo riding we welcome you!.
+        Please click on the link here and enjoy the hail of KABB riding we welcome you!.
       </div>
     ),
   },

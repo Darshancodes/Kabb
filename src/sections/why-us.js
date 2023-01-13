@@ -26,15 +26,15 @@ const data = {
       altText: 'Quality',
       title: 'Quality',
       text:
-        'We strive to provide the best quality as standard across all our products.',
+        'We have high Quality Parameters in industry and strive to improve through your Feedback.',
     },
     {
         id: 3,
         imgSrc: Price,
-        altText: 'Affordability',
-        title: 'Affordability',
+        altText: 'Transparency',
+        title: 'Transparency',
         text:
-          'Our model enables continuous benefits which is never seen. (Terms & Conditions Apply).',
+          'Direct QR payments and clean billing system enables 100% transparency.',
       },
   ],
 };
