@@ -10,7 +10,7 @@ export default [
   {
     items: [
       {
-        path: 'https://www.linkedin.com/company/kabbkaro/',
+        path: 'https://linktr.ee/kabbkaro',
         label: 'Social media',
       },
     ],

@@ -7,7 +7,7 @@ const faqs = [
     title: 'How can i join as a Driver ?',
     contents: (
       <div>
-        Ryxo is always excited to welcome dedeicated drivers to its network. Click on the button Get it now to open up a world of exciting opportunities with ryxo rides.
+        Ryxo is always excited to welcome dedicated drivers to its network. <a href="https://kabb.in">'Drive with us'</a> and Get the app now to open up a world of exciting opportunities with Kabb.
       </div>
     ),
   },
@@ -15,7 +15,9 @@ const faqs = [
     title: 'How can i hail a KABB Riding?',
     contents: (
       <div>
+        <a href="https://www.w3docs.com/">
         Please click on the link here and enjoy the hail of KABB riding we welcome you!.
+        </a>
       </div>
     ),
   },
