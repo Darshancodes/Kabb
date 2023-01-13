@@ -7,7 +7,7 @@ const faqs = [
     title: 'How can i join as a Driver ?',
     contents: (
       <div>
-        Ryxo is always excited to welcome dedicated drivers to its network. <a href="https://kabb.in">'Drive with us'</a> and Get the app now to open up a world of exciting opportunities with Kabb.
+        Kabb is always excited to welcome dedicated drivers to its network. <a href="https://kabb.in">'Drive with us'</a> and Get the app now to open up a world of exciting opportunities with Kabb.
       </div>
     ),
   },
@@ -22,10 +22,10 @@ const faqs = [
     ),
   },
   {
-    title: `What are your peak operating hours?`,
+    title: `What are your operating hours?`,
     contents: (
       <div>
-        Peak time are 6:30am - 9:00am and 5:00pm - 7:30pm.
+        We're available 24/7.
       </div>
     ),
   },

@@ -9,7 +9,6 @@ import Secure from 'assets/core-feature/secure.svg';
 import Price from 'assets/core-feature/price-tag.svg';
 
 const data = {
-  subTitle: 'Why Choose Us',
   title: 'Here’s why you should choose us',
   features: [
     {

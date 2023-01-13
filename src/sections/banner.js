@@ -18,7 +18,7 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            Booking KABB helps you save upto 40% on every ride
+            KABB helps you save upto 40% on every ride
           </Heading>
           <Text as="p" variant="heroSecondary">
           </Text>

@@ -26,7 +26,7 @@ export default [
   {
     items: [
       {
-        path: 'https://www.linkedin.com/company/kabbkaro/',
+        path: 'https://forms.gle/6Rhz4LWts4tgd3Tu9',
         label: 'Contact us',
       },
     ],

@@ -33,7 +33,7 @@ export default function Header({ className }) {
               </Link>
             ))}
           </Flex>
-
+          <a href='https://play.google.com/store/apps/details?id=com.kabb.kabb'>
           <Button
             className="donate__btn"
             variant="secondary"
@@ -42,6 +42,7 @@ export default function Header({ className }) {
           <FaPlay />
             Drive with us
           </Button>
+          </a>
 
           <MobileDrawer />
         </Container>
