@@ -105,7 +105,7 @@ export default {
       pt: 9,
     },
     faq: {
-      py: [8, null, 9, null, null, 10],
+      py: [8, null, 9, null, null, 200],
     },
   },
   sectionHeader: {

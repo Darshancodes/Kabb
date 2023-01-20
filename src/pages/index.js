@@ -8,6 +8,7 @@ import Banner from 'sections/banner';
 import KeyFeature from 'sections/key-feature';
 import WhyUs from 'sections/why-us';
 import WorkFlow from 'sections/workflow';
+import GetNotified from 'sections/get-notified';
 import Faq from 'sections/faq';
 
 export default function IndexPage() {
@@ -20,6 +21,7 @@ export default function IndexPage() {
           <KeyFeature />
           <WhyUs />
           <WorkFlow />
+          <GetNotified />
           <Faq />
         </Layout>
       </StickyProvider>

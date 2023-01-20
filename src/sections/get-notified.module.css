@@ -8,7 +8,7 @@
 
 .middle {
     position: absolute;
-    top: 570%;
+    top: 407%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -41,7 +41,7 @@
    }
    
    .button {
-    margin-left: 37rem;
+    margin-left: 41rem;
     width: 170px;
     margin-top: 1rem;
     padding: 15px 30px;
@@ -78,3 +78,6 @@
     margin: 20px 0;
     font-weight: bold;
 }
+
+@media only screen and (max-width: 600px) {
+  }
